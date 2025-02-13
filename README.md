@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Cody]
 
-<!--
-**codesalittle/codesalittle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a student passionate about technology. I love programming and building web projects.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Languages:** Primarily Vanilla HTML, CSS, JS
+- **Frameworks:** NodeJS
+- **Tools & Platforms:** VSCode Forever
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+Here are some of my favorite projects:
+- [**https://github.com/davebb16/zehav**](zehav): More coming soon👀
+
+## 🌱 Currently Learning
+I'm currently expanding my knowledge in:
+- TailwindCSS, ReactJS, Python
+- French Horn 📯 & Piano 🎹
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate. Happy coding! 🚀
