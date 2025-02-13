@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Cody]
+# Hi there! 👋 I'm Cody
 
 Welcome to my GitHub profile! I'm a student passionate about technology. I love programming and building web projects.
 
