@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a student passionate about technology. I love 
 
 ## 🚀 Projects
 Here are some of my favorite projects:
-- [**https://github.com/davebb16/zehav**](zehav): More coming soon👀
+- [**zehav**]([zehav](https://github.com/davebb16/zehav)): More coming soon👀
 
 ## 🌱 Currently Learning
 I'm currently expanding my knowledge in:
