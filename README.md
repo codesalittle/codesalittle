@@ -1,10 +1,9 @@
-# Hi there! 👋 I'm Cody
+# Hey, I'm Cody
 
-Welcome to my GitHub profile! I'm a student passionate about technology. I love programming and building web projects.
+I'm a student passionate about music and technology. I love programming and learning new things.
 
-## 🔧 Technologies & Tools
-- **Languages:** Primarily Vanilla HTML, CSS, JS
-- **Frameworks:** NodeJS
+## 🔧 Programming Skillset
+- **Languages:** Vanilla HTML, CSS, JS, and a 🤏 Python
 - **Tools & Platforms:** VSCode Forever
 
 ## 🚀 Projects
@@ -12,8 +11,10 @@ Here are some of my favorite projects:
 - [**zehav**]([zehav](https://github.com/davebb16/zehav)): More coming soon👀
 
 ## 🌱 Currently Learning
-I'm currently expanding my knowledge in:
-- TailwindCSS, ReactJS, Python
-- French Horn 📯 & Piano 🎹
+I'm currently:
+- Studying 📘
+- French Horn 📯
+What I want to learn someday:
+- TailwindCSS, ReactJS, Python, and Go 🥷
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate. Happy coding! 🚀
+Thanks for stopping by! Happy coding! 🚀
